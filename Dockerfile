@@ -2,6 +2,8 @@ FROM gradle:8.5-jdk17 AS builder
 WORKDIR /app
 COPY . .
 
+RUN ./gradlew bootJar
+
 FROM eclipse-temurin:17-jdk-jammy
 WORKDIR /app
 
