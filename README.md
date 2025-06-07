@@ -4,7 +4,7 @@ FlowGuard é um sistema IoT de baixo custo que monitora o nível da água em bue
 
 ## Vídeo
 
-> <a href="https://youtu.be/53BIvKi_M04?si=Q5GG018jUqzTkhFQ">Vídeo</a>
+> <a href="https://youtu.be/CsGkTZecFNg?si=F0nuNjVlRQa3a8Rg">Vídeo</a>
 
 ## Tecnologias 
 
