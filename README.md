@@ -2,6 +2,10 @@
 
 FlowGuard é um sistema IoT de baixo custo que monitora o nível da água em bueiros urbanos e emite alertas imediatos em caso de risco de alagamento. A solução foi desenvolvida para ser simples, replicável e de grande impacto em áreas com histórico de enchentes.
 
+## Vídeo
+
+> <a href="https://youtu.be/53BIvKi_M04?si=Q5GG018jUqzTkhFQ">Vídeo</a>
+
 ## Tecnologias 
 
 - Java 17
