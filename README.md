@@ -1,12 +1,12 @@
-# FlowGuard
+# ⟢ FlowGuard
 
 FlowGuard é um sistema IoT de baixo custo que monitora o nível da água em bueiros urbanos e emite alertas imediatos em caso de risco de alagamento. A solução foi desenvolvida para ser simples, replicável e de grande impacto em áreas com histórico de enchentes.
 
-## Vídeo
+## 🎥 Vídeo
 
 > <a href="https://youtu.be/CsGkTZecFNg?si=F0nuNjVlRQa3a8Rg">Vídeo</a>
 
-## Tecnologias 
+## ⚙️ Tecnologias 
 
 - Java 17
 - Spring Boot
@@ -18,14 +18,14 @@ FlowGuard é um sistema IoT de baixo custo que monitora o nível da água em bue
 
 #
 
-## Requisitos
+## › Requisitos
 
 - Docker instalado na máquina ou VM Linux
 - Portas 8080 e 3306 liberadas
 - Git instalado
 - Java 17 instalado
 
-## Como Executar
+## ➤ Como Executar
 
 ### 1. Clone o projeto
 
@@ -88,12 +88,12 @@ docker run -d --name flowguard-api \
 ### 7. Acesse pelo swagger
 
 ```
-http://<SEU_IP_PUBLICO>:8080/swagger-ui/index.html
+http://<IP_VM>:8080/swagger-ui/index.html
 ```
 
 #
 
-## Integrantes
+## ⟢ Integrantes
  
 - Iris Tavares Alves 557728 </br>
 - Taís Tavares Alves 557553 </br>
